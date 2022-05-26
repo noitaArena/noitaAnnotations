@@ -1,0 +1,6 @@
+<Mod
+	name="noitaAnnotations"
+	description="EmmyLua & XML annotations for modding - Does nothing in-game"
+	request_no_api_restrictions="0" 
+> 
+</Mod>
